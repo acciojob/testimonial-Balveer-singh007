@@ -11,4 +11,5 @@ body{
 .author{
 	postion:relative;
      text-align:right;
+	font-style:italic;
 }
