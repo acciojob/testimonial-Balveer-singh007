@@ -6,13 +6,13 @@ body{
 .set{
 	background-color:white;
 	border:10px solid #f5f5f5;
-	padding:10px;
+	padding:15px;
 	postion:relative;
 }
 .author{
 	postion:absolute;
      text-align:right;
 	font-style:italic;
-	right: 45px;
+	right: 25px;
 	bottom:2px;
 }
